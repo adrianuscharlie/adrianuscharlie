@@ -1,4 +1,8 @@
-### Hi there, I'm Adrianus Charlie 👋
+## Hi there, I'm Adrianus Charlie 👋
+This is my portfolio about my coding stuff like data (machine learning stuff) and web development.
+
+### Connect with me
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
 
 <!--
 **adrianuscharlie/adrianuscharlie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
