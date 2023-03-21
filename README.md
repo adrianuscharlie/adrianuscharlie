@@ -6,7 +6,7 @@ This is my portfolio about my coding stuff like data (machine learning stuff) an
 <a href="https://linkedin.com/in/adrianuscharlie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrianuscharlie" height="30" width="40" /></a>
 <a href="https://instagram.com/adrianuscharlie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
-  <h3>Things I code with</h3>
+## Things I code with
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
