@@ -1,5 +1,5 @@
 ## Hi there, I'm Adrianus Charlie 👋
-This is my portfolio about my coding stuff like data (machine learning stuff) and web development.
+This is my portfolio about my coding stuff like data (machine learning stuff) and web development. I like to learn a new things everyday! I code anything, and anytime 🤣 Just kidding ✌️
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
@@ -20,7 +20,7 @@ This is my portfolio about my coding stuff like data (machine learning stuff) an
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-## Project That I've Builded and Done.
+## Project That I've Builded and Done For My Client.
 | Project | Description | Link |
 | --- | --- | --- |
 | Company  Profile Website | Building company profile website using react js and bootstrap | [Repository](https://github.com/adrianuscharlie/react-companyprofile-JPS)|
