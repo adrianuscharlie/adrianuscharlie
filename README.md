@@ -20,11 +20,12 @@ This is my portfolio about my coding stuff like data (machine learning stuff) an
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-## Project That I've Builded and Done For My Client.
+## Project That I've Builded and Done.
 | Project | Description | Link |
 | --- | --- | --- |
 | Company  Profile Website | Building company profile website using react js and bootstrap | [Repository](https://github.com/adrianuscharlie/react-companyprofile-JPS)|
 | Medication Apps | Building apps using Flutter that integrated with Firebase Firestore and Cloud Functions that can notify user, especially patient to drink their medicine | [Repository](https://github.com/adrianuscharlie/flutter-Minum-Obat) |
 | Skin disease detector | Building machine learning model that can determine facial skin disease from photo that inputed by user through our application. The apps builded in Android OS and the machine learning model deployed to Google Cloud Platform. | [ML Repository](https://github.com/adrianuscharlie/ML-Capstone-Bangkit-2022/tree/main/charlie) [Android Repository](https://github.com/Chndr-3/Capstone-Project-Mobile-Development-Repository) [Cloud Repository](https://github.com/senoaji91/Capstone-Project-Cloud-Computing-Repository)|
 | Daily garbage recap | Building Flutter app's and web app using react.js and tailwind css. This project contains CRUD for daily garbage consumtion> This project was owned by my campus. | [Flutter Repository](https://github.com/adrianuscharlie/flutter-auditsampah-usd) [React Repository](https://github.com/adrianuscharlie/react-auditsampah-usd) |
-| Web scrapping robot using UIPATH | Developing scrapping robot that can collect data from [This Link](https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/rekapitulasi?kode_wilayah=000000) for BCA (Bank Central Asia) using UIPATH. This robot was created with unattended robot using UI Path orchestrator | [Repository](https://github.com/adrianuscharlie/icstar_bca_scrapping_yayasan)
+| Web scrapping robot using UIPATH | Developing scrapping robot that can collect data from [This Link](https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/rekapitulasi?kode_wilayah=000000) for BCA (Bank Central Asia) using UIPATH. This robot was created with unattended robot using UI Path orchestrator | [Repository](https://github.com/adrianuscharlie/icstar_bca_scrapping_yayasan)|
+| Sentiment Analysis Using LSTM and Bidirectional LSTM | Developing deep learning LSTM and BiLSTM model that can detect hate speech on "Selena Gomez" Twitter dataset. This project are created to fulfill my thesis project | [Repository](https://github.com/adrianuscharlie/ML-hate-speech-detection)
