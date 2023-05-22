@@ -1,5 +1,5 @@
 ## Hi there, I'm Adrianus Charlie 👋
-This is my portfolio about my coding stuff like data (machine learning stuff) and web development. I like to learn a new things everyday! I code anything, and anytime 🤣 Just kidding ✌️
+This is my portfolio about my coding stuff like data (machine learning stuff), computer vision and web development. I like to learn a new things everyday! I code anything, and anytime 🤣 Just kidding ✌️
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
@@ -18,6 +18,7 @@ This is my portfolio about my coding stuff like data (machine learning stuff) an
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img alt="TailwindCss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 ## Project That I've Builded and Done.
@@ -29,3 +30,4 @@ This is my portfolio about my coding stuff like data (machine learning stuff) an
 | Daily garbage recap | Building Flutter app's and web app using react.js and tailwind css. This project contains CRUD for daily garbage consumtion> This project was owned by my campus. | [Flutter Repository](https://github.com/adrianuscharlie/flutter-auditsampah-usd) [React Repository](https://github.com/adrianuscharlie/react-auditsampah-usd) |
 | Web scrapping robot using UIPATH | Developing scrapping robot that can collect data from [This Link](https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/rekapitulasi?kode_wilayah=000000) for BCA (Bank Central Asia) using UIPATH. This robot was created with unattended robot using UI Path orchestrator | [Repository](https://github.com/adrianuscharlie/icstar_bca_scrapping_yayasan)|
 | Sentiment Analysis Using LSTM and Bidirectional LSTM | Developing deep learning LSTM and BiLSTM model that can detect hate speech on "Selena Gomez" Twitter dataset. This project are created to fulfill my thesis project | [Repository](https://github.com/adrianuscharlie/ML-hate-speech-detection)
+| Face Detection | Create deep learning model for face recognition using CNN and custom dataset with real time detection. The purpose of building this repository are want to do face detection, and the model will be deployed to the ESP Cam 32 for automatic door using face recognition. | [Repository](https://github.com/adrianuscharlie/FaceDetection)
