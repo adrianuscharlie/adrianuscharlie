@@ -1,38 +1,101 @@
-## Hi there, I'm Adrianus Charlie 👋
-This is my portfolio about my coding stuff like data (machine learning stuff), computer vision and web development. I like to learn a new things everyday! I code anything, and anytime 🤣 Just kidding ✌️
+<h1 >Hi There, Charlie Here!</h1>
+<h3 >Enthusiastic and skilled Machine Learning Engineer and Software Developer with a strong background in designing and implementing cutting-edge solutions. Proven expertise in developing robust APIs, full-stack web applications, and mobile applications. Adept at leveraging machine learning algorithms to solve complex problems and optimize processes. Currently developing Web3 skills, with a focus on blockchain technology, decentralized applications (dApps), and smart contract development. Dedicated to staying abreast of industry trends and continuously enhancing skills to deliver high-quality, future-ready software solutions.</h3>
 
-🔗 &nbsp;**Connect with me**
+
+- Web Development Portfolio [React Company Profile](https://github.com/adrianuscharlie/react-companyprofile-JPS)
+
+- Main Focus **Certified Tensorflow Developer,Software Developer ML/AI Engineer, and Web3 Developer Wannabe**
+
+- Computer Vision Portfolio [Skin Disease Detector](https://github.com/adrianuscharlie/ML-Capstone-Bangkit-2022/tree/main)
+
+- NLP Portfolio [Sentiment Analysis Using LSTM and BILSTM](https://github.com/adrianuscharlie/ML-hate-speech-detection)
+
+- 👨‍💻 All of my projects are available at [https://github.com/adrianuscharlie?tab=repositories](https://github.com/adrianuscharlie?tab=repositories)
+
+- Web3 and Blockchain Development [https://github.com/adrianuscharlie/CampaignFactory](https://github.com/adrianuscharlie/CampaignFactory)
+
+- 🌱 I’m currently learning **Web3 Things and Blockchain Development**
+
+- 📫 How to reach me **adrianus.charlie02@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/doflamingo0x2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="doflamingo0x2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adrianuscharlie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrianuscharlie" height="30" width="40" /></a>
-<a href="https://instagram.com/adrianuscharlie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-
-## Things I code with
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img alt="TailwindCss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<a href="https://instagram.com/adrianuscharlie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adrianuscharlie" height="30" width="40" /></a>
 </p>
 
-## Project That I've Builded and Done.
-| Project | Category | Description | Link |
-| --- | --- | --- | --- |
-| Company  Profile Website | Frontend Development | Building company profile website using react js and bootstrap | [Repository](https://github.com/adrianuscharlie/react-companyprofile-JPS)|
-| Medication Apps | Software Development | Building apps using Flutter that integrated with Firebase Firestore and Cloud Functions that can notify user, especially patient to drink their medicine | [Repository](https://github.com/adrianuscharlie/flutter-Minum-Obat) |
-| Skin disease detector | Computer Vision, Deep Learning | Building machine learning model that can determine facial skin disease from photo that inputed by user through our application. The apps builded in Android OS and the machine learning model deployed to Google Cloud Platform. | [ML Repository](https://github.com/adrianuscharlie/ML-Capstone-Bangkit-2022/tree/main) [Android Repository](https://github.com/Chndr-3/Capstone-Project-Mobile-Development-Repository) [Cloud Repository](https://github.com/senoaji91/Capstone-Project-Cloud-Computing-Repository)|
-| MTailor Take Home Computer Vision Assesment | Computer Vision, Deep Learning | Solve Computer Vision assesment using Pytorch. This assesment is one of selection step to join MTailor Machine Learning Engineer, International Tailor | [Repository](https://github.com/adrianuscharlie/MTailor-Assesment-CV-with-Pytorch)
-| Daily garbage recap | Software Development | Building Flutter app's and web app using react.js and tailwind css. This project contains CRUD for daily garbage consumtion> This project was owned by my campus. | [Flutter Repository](https://github.com/adrianuscharlie/flutter-auditsampah-usd) [React Repository](https://github.com/adrianuscharlie/react-auditsampah-usd) |
-| Web scrapping robot using UIPATH | RPA | Developing scrapping robot that can collect data from [This Link](https://vervalyayasan.data.kemdikbud.go.id/index.php/Chome/rekapitulasi?kode_wilayah=000000) for BCA (Bank Central Asia) using UIPATH. This robot was created with unattended robot using UI Path orchestrator | [Repository](https://github.com/adrianuscharlie/icstar_bca_scrapping_yayasan)|
-| Sentiment Analysis Using LSTM and Bidirectional LSTM | NLP, Deep Learning | Developing deep learning LSTM and BiLSTM model that can detect hate speech on "Selena Gomez" Twitter dataset. This project are created to fulfill my thesis project | [Repository](https://github.com/adrianuscharlie/ML-hate-speech-detection)
-| Face Detection | Coomputer Vision, Deep Learning | Create deep learning model for face recognition using CNN and custom dataset with real time detection. The purpose of building this repository are want to do face detection, and the model will be deployed to the ESP Cam 32 for automatic door using face recognition. | [Repository](https://github.com/adrianuscharlie/FaceDetection)
-| Kuotes.ID | Fullstack Development | Create fullstack web app using nextjs 13 to create a social media for share about thoughts, developing REST API and manage database using MongoDB | [Repository](https://github.com/adrianuscharlie/Fullstack-NextJS13)
-| Data Science Competition | Data Science | Join Data Science Competition in Gammafest 2023. Doing EDA and make many machine learning model to solve the problem | [Repository](https://github.com/adrianuscharlie/Data-Science-Competition)
-| Multitask Classification (Gender and Emotion) | Computer Vision, Deep Learning | Create Deep Convulutional Neural Network model to do multitask classification. This model can classify gender and emotion of people from picture or video straming. This model using pre-trained model VGG16 for the baseline, and add some modification in last layer to do multitask classification. | [Repository](https://github.com/adrianuscharlie/CNN-Multitask-Classification/tree/main)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+  </a> 
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
+  </a> 
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
+  </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a> 
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+  </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a> 
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+  </a> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  </a>
+  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/>
+  </a>
+  <a href="https://ethereum.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/800px-Ethereum-icon-purple.svg.png" alt="ethereum" width="40" height="40"/>
+  </a>
+  <a href="https://metamask.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJZaVpfhv3kgZA46GoqfVNIFhR6pXIdX4_Rg&s" alt="metamask" width="40" height="40"/>
+  </a>
+</p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianuscharlie&show_icons=true&locale=en&layout=compact" alt="adrianuscharlie" /></p>
+
 
