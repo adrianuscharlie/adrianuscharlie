@@ -21,8 +21,6 @@ Dedicated to staying updated with **industry trends** and continuously improving
 ## 📫 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/adrianuscharlie/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/adrianuscharlie)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat)]([https://your-portfolio-link.com](https://github.com/adrianuscharlie?tab=repositories))  
-
 ---
 
 ⭐ **Fun fact:** When I'm not coding, you'll probably find me exploring **new tech**, diving into **problem-solving challenges**, or discussing **blockchain innovations**!  
