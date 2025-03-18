@@ -7,7 +7,7 @@ Dedicated to staying updated with **industry trends** and continuously improving
 💻 **Programming Languages**: C#, Python, JavaScript  
 🔧 **Backend**: Node.js, .NET Core / .NET Framework  
 🌐 **Frontend**: Next.js / React.js  
-📦 **Databases**: MySQL, MongoDB, Postgre SQL
+📦 **Databases**: MySQL, MongoDB, Postgre SQL  
 🐳 **DevOps & Tools**: Docker, Redis, Linux/WSL  
 🤖 **AI & ML**: TensorFlow, PyTorch  
 🔗 **Blockchain**: Solidity, Hardhat -> Web3  
