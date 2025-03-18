@@ -5,9 +5,9 @@ Dedicated to staying updated with **industry trends** and continuously improving
 
 ## 🛠 Tech Stack & Skills  
 💻 **Programming Languages**: C#, Python, JavaScript  
-🔧 **Backend**: .NET Core / .NET Framework  
+🔧 **Backend**: Node.js, .NET Core / .NET Framework  
 🌐 **Frontend**: Next.js / React.js  
-📦 **Databases**: MySQL, MongoDB  
+📦 **Databases**: MySQL, MongoDB, Postgre SQL
 🐳 **DevOps & Tools**: Docker, Redis, Linux/WSL  
 🤖 **AI & ML**: TensorFlow, PyTorch  
 🔗 **Blockchain**: Solidity, Hardhat -> Web3  
