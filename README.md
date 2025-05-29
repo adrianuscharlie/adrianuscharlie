@@ -5,7 +5,7 @@ Dedicated to staying updated with **industry trends** and continuously improving
 
 ## 🛠 Tech Stack & Skills  
 💻 **Programming Languages**: C#, Python, JavaScript  
-🔧 **Backend**: Node.js, .NET Core / .NET Framework  
+🔧 **Backend**: Go, Node.js, .NET Core / .NET Framework  
 🌐 **Frontend**: Next.js / React.js  
 📦 **Databases**: MySQL, MongoDB, Postgre SQL  
 🐳 **DevOps & Tools**: Docker, Redis, Linux/WSL  
